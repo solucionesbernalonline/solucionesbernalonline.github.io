@@ -1030,7 +1030,7 @@ parallax
   left: 0;
   width: 100%;
   height: 130%; /* altura extra para parallax */
-  background-image: url("/solucionesbernalonline.github.io-main/assets/img/colage.png");
+  background-image: url("/assets/img/colage.png");
   
   /* Tamaño variable respetando proporción */
   --bg-scale: 100%;
